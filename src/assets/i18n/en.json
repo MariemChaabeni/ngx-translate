@@ -1,0 +1,7 @@
+{
+    "label.languages": "Choose a language",
+    "welcome": "Welcome to my demo",
+    "message": "I'll give you the simplest way to implement translation into your <b>Angular</b> project.",
+    "exemple1": "Here is an example with variables: '{{var1}}' and '{{var2}}' are dynamic.",
+    "exemple2": "Example with one variable: {{value}}"
+}
